@@ -12,4 +12,3 @@ access gyms and fitness studios, with built-in community features.
 
 ## Tech stack
 React Native (Expo) · ASP.NET Core 8 · MongoDB · SignalR  
-Hosting: Netlify (web) · Railway (API)
